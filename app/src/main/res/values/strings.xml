@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="name">\n  Unit\nConverter</string>
+    <string name="pound">kg-> lbs</string>
+    <string name="kg">lbs-> kg</string>
+    <string name="miles">km-> miles</string>
+    <string name="km">miles-> km</string>
+    <string name="gallon">litre-> Imp.gallon</string>
+    <string name="acre">sq.m-> acre</string>
+    <string name="feet">cm-> ft</string>
+    <string name="litre">Imp.gallon->litre</string>
+    <string name="sq_m">acre->sq.m</string>
+    <string name="cm">ft-> cm</string>
+    <string name="hint1">Enter the value</string>
+    <string name="view2">Result:</string>
+    <string name="clear">CLEAR</string>
+</resources>
