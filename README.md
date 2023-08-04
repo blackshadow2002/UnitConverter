@@ -1,5 +1,5 @@
 # UnitConverter
-Supported Changes:
+Supported Conversions:
 - kg to lbs and vice-versa.
 - km to miles and vice-versa.
 - litre to Imperial gallon and vice-versa.
